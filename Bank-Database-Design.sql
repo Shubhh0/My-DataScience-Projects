@@ -1,5 +1,5 @@
 
-/* ## MS-SQL PROJECT on Banking Transactions by Gyan Kumar GM ! */
+/* ## MS-SQL PROJECT on Banking Transactions by Shubham Yadav! */
 
 -- PHASE I of project begins 
 
